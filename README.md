@@ -2,7 +2,7 @@
 ### By: Jack Cohen
 
 # PURPOSE
-The purpose of this VBA script is to loop through stock data to extract, analyze, and document meaningful data for each stock in each year of data provided.
+The purpose of this VBA script is to loop through stock data to extract, analyze, and document meaningful data for each stock in each year of data provided. The script outputs condensed stock information for that year and highlights the stocks that had the greatest percent increase, greatest percent decrease, and greatest total volume.
 
 # ASSUMPTIONS
 The module was created to analyze stock data with the following assumptions:
